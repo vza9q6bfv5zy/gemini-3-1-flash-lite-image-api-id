@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-b659e1) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [gemini-3-1-flash-lite-image-prompts-id](https://github.com/vza9q6bfv5zy/gemini-3-1-flash-lite-image-prompts-id)
+- **Same model, other languages** — 9 more language builds: 中文 `gemini-3-1-flash-lite-image-api-cn` · Deutsch [gemini-3-1-flash-lite-image-api-de](https://github.com/fa4q25y/gemini-3-1-flash-lite-image-api-de) · Español [gemini-3-1-flash-lite-image-api-es](https://github.com/cdin2bv04dg/gemini-3-1-flash-lite-image-api-es) · Français [gemini-3-1-flash-lite-image-api-fr](https://github.com/oaaw3i8/gemini-3-1-flash-lite-image-api-fr) · Relay/gateway [gemini-3-1-flash-lite-image-api-gateway](https://github.com/ke84b1y8yw17/gemini-3-1-flash-lite-image-api-gateway) · 日本語 `gemini-3-1-flash-lite-image-api-ja` · 한국어 [gemini-3-1-flash-lite-image-api-ko](https://github.com/yqnwlelqzmfd0c/gemini-3-1-flash-lite-image-api-ko) · Português [gemini-3-1-flash-lite-image-api-pt](https://github.com/w-flf0/gemini-3-1-flash-lite-image-api-pt) · Русский `gemini-3-1-flash-lite-image-api-ru`
+- **More models in this language** — [midjourney-api-id](https://github.com/cvrwq0/midjourney-api-id) · [gemini-2-5-flash-image-preview-api-id](https://github.com/gmrg0s/gemini-2-5-flash-image-preview-api-id) · [nano-banana-api-id](https://github.com/vsa185x9ecrd/nano-banana-api-id) · [gemini-3-1-flash-image-preview-api-id](https://github.com/p61qrgpg/gemini-3-1-flash-image-preview-api-id) · [nano-banana-2-api-id](https://github.com/n1rf4ezzz/nano-banana-2-api-id) · [gemini-3-pro-image-preview-api-id](https://github.com/s78ve5v4x9ji2/gemini-3-pro-image-preview-api-id)
+- **Topic hubs** — every build of this model, all languages: [gemini-3-1-flash-lite-image](https://github.com/topics/gemini-3-1-flash-lite-image) · [gemini-3-1-flash-lite-image-api](https://github.com/topics/gemini-3-1-flash-lite-image-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
